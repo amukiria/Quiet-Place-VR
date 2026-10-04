@@ -18,12 +18,6 @@ EditorBuildSettings:
     path: Assets/Scenes/EatingScene.unity
     guid: a390bd5f3c422d1409fe32e9cdbe9feb
   - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
     path: Assets/Scenes/Hand Demo.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
@@ -31,3 +25,6 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 15edf7c4f4fa3ad4b87e4feeca142c52,
       type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a03309b2bd242f84c97d1cbe908c99f5,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
