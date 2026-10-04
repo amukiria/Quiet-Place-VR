@@ -1,59 +1,82 @@
-# Quiet Place - ARVR Africa Metathon Project
+# Quiet Place VR
 
-  Quiet Place is a Platform that helps users cope with grief by providing a safe, peaceful and quiet place where they can express their feelings with no fear of judgement.   The user also gets to interact with different materials that help them cope with grief.
+A short-form virtual reality experience built in Unity for Meta Quest, exploring immersive interaction, spatial presence, and environmental storytelling.
 
-# Project Intro Video:
-   https://youtu.be/n_KQtPittsc
-   
-# Project Demo Video: 
-  https://youtu.be/Vw-jHxTyKAE
+## Overview
 
-# Project Pitch Deck:
-  https://www.canva.com/design/DAFSxjIHE3E/eD0G10o0mF5FCbUwpygM6Q/view?utm_content=DAFSxjIHE3E&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#2
- 
-# Day 1 - Summary
+**Quiet Place VR** is a VR experience developed for Meta Quest. The project explores how environmental design, spatial interaction, and VR-specific mechanics can be combined to create an immersive experience.
 
-# Conception Tasks
-1. Finalize topic brainstorm
-2. Created User Persona
-3. Conduct UX research
-4. Create brand guidelines
-5. Created User journey
-6. Kickoff project website
-7. Created app userflow
-8. Begun creating main screen UI
-9. Sources audio: music and SFX.
-10. Distributed tasks along member skills and strengths
+The project was developed in Unity with the **XR Interaction Toolkit** and **Unity Input System**, with deployment and testing on **Meta Quest 2**.
 
-# Tech Tasks
-1. Setup up development environment
-2. Created URP Project template
-3. Installed XR Interaction Toolkit
-4. Configure new Input System
-5. Install XR Plugin Management
-6. Deploy XR Rig
-7. Configure XR Input Actions
-8. Configure build setting to Android
-9. Test APK on Quest 2
-10. Created team GitHub account
+## Key Features
 
-# Day 2 - Summary
+- VR locomotion using teleportation
+- Snap turning for comfortable movement
+- VR hand and controller interaction
+- Object grabbing and manipulation
+- Haptic feedback
+- Interactive environmental elements
+- Spatial and environmental storytelling
+- Android deployment for Meta Quest
+- XR-ready interaction architecture using Unity's XR Interaction Toolkit
 
-# Tech Tasks
-1. Create Sandbox level
-2. Locomotion: teleportation, snap turn
-3. VR Hands in progress
-4. Grab interaction
-5. Simple interaction
-6. Haptic feedback
+## Technology
 
-At this point things got tough, but we got saved by JA!!!!!!
+- **Unity**
+- **C#**
+- **XR Interaction Toolkit**
+- **Unity Input System**
+- **XR Plugin Management**
+- **Android**
+- **Meta Quest 2**
 
-# Day 3 - Fighting Bugs
-:(
+## Technical Focus
 
-# Day 4 - Recover from a crash
-:(
+The project provided practical experience implementing core VR systems, including:
 
-# Day 5 - Fighting more bugs
-where's the bug swatter ??
+- XR interaction and input
+- VR locomotion
+- Object interaction and grabbing
+- Haptic feedback
+- Android/Quest deployment
+- Designing interactions specifically for spatial computing rather than conventional screen-based interfaces
+
+## Development
+
+The project was developed as an experimental VR experience, with an emphasis on learning and applying practical XR development workflows.
+
+Development involved implementing and testing VR interactions in Unity, deploying builds to Meta Quest 2, and iterating on interaction and locomotion systems based on headset testing.
+
+## Media
+
+### Project Introduction
+
+[Watch the project introduction video](#)
+
+### Demo
+
+[Watch the gameplay/demo video](#)
+
+### Pitch Deck
+
+[View the project pitch deck](#)
+
+> Replace the `#` links above with the existing video and pitch-deck URLs from the project repository.
+
+## Platform
+
+**Meta Quest 2**
+
+## Project Status
+
+Completed prototype / experimental VR project.
+
+## Developer
+
+**Albert Mukiria**
+
+Software Engineer and XR Developer focused on Unity, VR/AR, real-time 3D, interactive applications, and immersive experiences.
+
+- Portfolio: https://amukiria.github.io
+- LinkedIn: https://www.linkedin.com/in/albert-mukiria
+- GitHub: https://github.com/amukiria
