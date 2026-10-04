@@ -1,12 +1,30 @@
 # Quiet Place VR
 
-A short-form virtual reality experience built in Unity for Meta Quest, exploring immersive interaction, spatial presence, and environmental storytelling.
+A short-form virtual reality experience built in Unity for Meta Quest 2, exploring immersive interaction, spatial presence, and environmental storytelling.
 
 ## Overview
 
-**Quiet Place VR** is a VR experience developed for Meta Quest. The project explores how environmental design, spatial interaction, and VR-specific mechanics can be combined to create an immersive experience.
+**Quiet Place VR** is a group-developed VR experience created for the **AR/VR Africa Metathon**. The project explores how environmental design, spatial interaction, and VR-specific mechanics can be combined to create an immersive experience.
 
-The project was developed in Unity with the **XR Interaction Toolkit** and **Unity Input System**, with deployment and testing on **Meta Quest 2**.
+The project was developed in Unity using the **XR Interaction Toolkit** and **Unity Input System**, with deployment and testing on **Meta Quest 2**.
+
+### My Role — VR Developer
+
+I served as the **VR Developer** on the project, responsible for implementing and configuring the core VR systems and interaction mechanics.
+
+My work included:
+
+- Setting up the Unity XR development environment
+- Configuring the XR Interaction Toolkit
+- Configuring the Unity Input System and XR input actions
+- Implementing XR locomotion and teleportation
+- Implementing snap turning
+- Implementing VR hand and controller interaction
+- Implementing object grabbing and manipulation
+- Implementing haptic feedback
+- Configuring XR Plugin Management
+- Configuring Android builds and deploying/testing on Meta Quest 2
+- Developing interactive environmental elements for spatial interaction
 
 ## Key Features
 
@@ -18,7 +36,7 @@ The project was developed in Unity with the **XR Interaction Toolkit** and **Uni
 - Interactive environmental elements
 - Spatial and environmental storytelling
 - Android deployment for Meta Quest
-- XR-ready interaction architecture using Unity's XR Interaction Toolkit
+- XR interaction architecture using Unity's XR Interaction Toolkit
 
 ## Technology
 
@@ -62,6 +80,12 @@ The project provided practical experience implementing core VR systems, includin
 ## Project Status
 
 Completed prototype / experimental VR project.
+
+## Team Project
+
+Quiet Place VR was developed as a collaborative project for the **AR/VR Africa Metathon**.
+
+**My role:** VR Developer
 
 ## Developer
 
