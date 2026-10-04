@@ -41,27 +41,19 @@ The project provided practical experience implementing core VR systems, includin
 - Android/Quest deployment
 - Designing interactions specifically for spatial computing rather than conventional screen-based interfaces
 
-## Development
-
-The project was developed as an experimental VR experience, with an emphasis on learning and applying practical XR development workflows.
-
-Development involved implementing and testing VR interactions in Unity, deploying builds to Meta Quest 2, and iterating on interaction and locomotion systems based on headset testing.
-
 ## Media
 
 ### Project Introduction
 
-[Watch the project introduction video](#)
+[Watch the Project Introduction](https://youtu.be/n_KQtPittsc)
 
-### Demo
+### Project Demo
 
-[Watch the gameplay/demo video](#)
+[Watch the Project Demo](https://youtu.be/Vw-jHxTyKAE)
 
-### Pitch Deck
+### Project Pitch Deck
 
-[View the project pitch deck](#)
-
-> Replace the `#` links above with the existing video and pitch-deck URLs from the project repository.
+[View the Project Pitch Deck](https://www.canva.com/design/DAFSxjIHE3E/eD0G10o0mF5FCbUwpygM6Q/view?utm_content=DAFSxjIHE3E&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#2)
 
 ## Platform
 
